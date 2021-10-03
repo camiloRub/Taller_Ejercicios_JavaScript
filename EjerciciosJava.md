@@ -1,11 +1,16 @@
 # Taller de JavaScript
 
+## Participantes
+1. Esteban Bedoya
+2. Camilo Rubiano 
+
 ## Ejercicio #1
 
 ```javascript
 var nombre = prompt("ingresar el nombre");
 console.log("ahora estas en la matrix " + nombre);
 ```
+![I1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio1png.png)
 
 ## Ejercicio #3
 
@@ -94,7 +99,7 @@ if(vocal.indexOf(letra) != -1){
 alert("vocal encontrada");
 }else {
     alert("No se pudo procesar el dato");
-    
+
 } 
 ```
 
