@@ -76,7 +76,7 @@ console.log(""+articulos);
 var verdad = Boolean(edad>18 && articulos>1);
 console.log(""+verdad);
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio13.png)
+![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/ejercicio13.png)
 
 ## Ejercicio #15
 
