@@ -83,7 +83,7 @@ console.log(""+articulos);
 var verdad = Boolean(edad>18 && articulos>1);
 console.log(""+verdad);
 ```
-![i1](Imagenes/Ejercicio13.png)
+![i1](Imagenes/Ejercicio1.png)
 
 ## Ejercicio #15
 
