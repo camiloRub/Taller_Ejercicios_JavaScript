@@ -13,8 +13,7 @@
 var nombre = prompt("ingresar el nombre");
 console.log("ahora estas en la matrix " + nombre);
 ```
-![I1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio1png.png)
-
+![i1](Imagenes/Ejercicio1.png)
 ## Ejercicio #3
 
 ```javascript
@@ -26,7 +25,7 @@ var numero3 = prompt("ingrese el tercer numero: ");
 var multiplicacion = suma * Number(numero3);
 console.log("Multiplicacion de la suma por el ultimos numero: " + multiplicacion);
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio3.png)
+![i1](Imagenes/Ejercicio3.png)
 
 ## Ejercicio #5
 
@@ -36,7 +35,7 @@ var Celsius = (5/9) * (tempt-32)
 console.log("En grados celsius es: "+ Celsius);
 
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio5.png)
+![i1](Imagenes/Ejercicio5.png)
 
 ## Ejercicio #7
 
@@ -44,7 +43,7 @@ console.log("En grados celsius es: "+ Celsius);
 var numero1 = prompt("ingrese un numero: ");
 console.log("Descontando el 15% queda: " + (numero1 - numero1 * 0.15)); 
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio7.png)
+![i1](Imagenes/Ejercicio7.png)
 
 ## Ejercicio #9
 
@@ -58,7 +57,7 @@ console.log("" + indice);
 var posicion = texto.charAt(indice);
 console.log("El caracter en esa posicion es: " + posicion);
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio9.png)
+![i1](Imagenes/Ejercicio9.png)
 
 ## Ejercicio 11
 
@@ -84,7 +83,7 @@ console.log(""+articulos);
 var verdad = Boolean(edad>18 && articulos>1);
 console.log(""+verdad);
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/ejercicio13.png)
+![i1](Imagenes/Ejercicio13.png)
 
 ## Ejercicio #15
 
@@ -96,7 +95,7 @@ console.log(""+palabra2);
 var verdad = Boolean(palabra1<palabra2);
 console.log(""+verdad);
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio15.png)
+![i1](Imagenes/Ejercicio15.png)
 
 ## Ejercicio #17
 
@@ -105,7 +104,7 @@ var numero1 = prompt("Numero: ");
 var valor = Math.abs(numero1);
 console.log = (""+valor);
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio17.png)
+![i1](Imagenes/Ejercicio17.png)
 
 ## Ejercicio #19
 
@@ -119,6 +118,6 @@ alert("vocal encontrada");
 
 } 
 ```
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio19.1.png)
-![i1](https://github.com/camiloRub/Taller_Ejercicios_JavaScript/blob/main/Imagenes/Ejercicio19.2.png)
+![i1](Imagenes/Ejercicio19.1.png)
+![i1](Imagenes/Ejercicio19.2.png)
 
