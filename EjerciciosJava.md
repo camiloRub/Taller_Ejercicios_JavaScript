@@ -14,6 +14,7 @@ var nombre = prompt("ingresar el nombre");
 console.log("ahora estas en la matrix " + nombre);
 ```
 ![i1](Imagenes/Ejercicio1.png)
+
 ## Ejercicio #3
 
 ```javascript
